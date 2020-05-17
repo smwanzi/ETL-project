@@ -10,7 +10,7 @@
             "createdAt": 1588953915,
             "description": "Deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to NCHS by race, age, and state.",
             "displayType": "table",
-            "downloadCount": 398,
+            "downloadCount": 423,
             "hideFromCatalog": false,
             "hideFromDataJson": false,
             "licenseId": "USGOV_WORKS",
@@ -26,7 +26,7 @@
             "rowsUpdatedBy": "xfvr-ns68",
             "tableId": 17102961,
             "totalTimesRated": 0,
-            "viewCount": 4259,
+            "viewCount": 4531,
             "viewLastModified": 1589403549,
             "viewType": "tabular",
             "approvals": [
